@@ -1,8 +1,9 @@
 # Autotmux
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-## Execute commands to different targets in different Tmux windows
+Execute commands to different targets in different Tmux windows
 
-`./autotmux.sh target-list`
+Example of use: `./autotmux.sh target-list`
 
 ## Licensing:
 
